@@ -1,0 +1,8 @@
+print("Welcome! Let us see if you are permitted to drive.")
+age = int(input("Please enter your age: "))
+if age < 18:
+    print("Sorry, you are underage")
+elif age > 18 and  age < 60:
+    print("You are allowed to drive")
+else :
+    print("Sorry you are not permitted to drive")
