@@ -12,7 +12,7 @@ This is a simple project which checks if a person is eligible to drive. As we al
 
 
 
-<img src="data/Screenshot (5).png" height="240" >
+<img src="data/Screenshot 2023-02-15 180125.png" height="240" >
 
 
 
